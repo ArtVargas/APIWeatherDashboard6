@@ -44,7 +44,7 @@ h1 {
 }
 
 .weather-input .separator::before{
-    content:"or";
+    content:"";
     color:#6C757D;
     font-size: 1.18rem;
     padding: 0 15px;
