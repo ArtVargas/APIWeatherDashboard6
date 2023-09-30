@@ -18,6 +18,17 @@ h1 {
     padding: 30px;
 }
 
+
+box{
+    width: 200px;
+    height: auto;
+    padding: 5px;
+    background-color: black
+}
+img {
+    max-width: 25%;
+}
+
 .weather-input {
     width: 550px;
 }
