@@ -11,6 +11,7 @@ h1 {
     background: #5372f0;
 }
 
+/*Add Display Flex*/
 .container {
     display: flex;
     gap: 35px;
@@ -33,6 +34,8 @@ h1 {
 
 }
 
+/* keep everything centered*/
+/*added flex displau*/
 .weather-input .separator{
     height: 1px;
     width: 100%;
