@@ -96,11 +96,22 @@ width: 100%;
     justify-content:space-between;
 }
 
+/*Make Changes about placement*/
+
 .current-weather .icon img{
-    height: 200px;
-    width: 200px;
-    max-width: 60%;
-    max-height: 40%;
-    justify-content: right;
-    
+    height: 60px;
+    width: 25%;
+    float: right;
+    padding-right: -50%;
+}
+
+.card {
+    display: flex;
+    gap: 100px;
+    list-style: none;
+    color: #fff;
+    padding: 18px 16px;
+    border-radius: 5px;
+    background: #6C757D;
+    width: calc(100% / 5);
 }
