@@ -109,9 +109,10 @@ width: 100%;
     display: flex;
     gap: 100px;
     list-style: none;
+    margin: 20px;
     color: #fff;
     padding: 18px 16px;
     border-radius: 5px;
     background: #6C757D;
-    width: calc(100% / 5);
+    
 }

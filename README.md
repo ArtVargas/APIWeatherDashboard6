@@ -7,7 +7,7 @@ A weather dashboard that will run in the browser and feature dynamically updated
 [Screenshot of Weather Dashboard]()
 
 # Resource URL
-[Link to API Key]()
+[Link to API Key](https://home.openweathermap.org/api_keys)
 [Link to If Else](https://www.w3schools.com/js/js_if_else.asp)
 [Link to JS Introduction](https://www.w3schools.com/js/js_intro.asp)
 [Link to Image Float](https://www.w3schools.com/css/css_float.asp)
