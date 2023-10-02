@@ -3,6 +3,8 @@ body {
 }
 
 /* Make blue to make it pop with color */
+/*Have it aligned to the center*/
+
 h1 {
     color: white;
     padding: 18px 0;
@@ -12,6 +14,8 @@ h1 {
 }
 
 /*Add Display Flex*/
+/*Include a gap for display*/
+
 .container {
     display: flex;
     gap: 35px;
@@ -53,6 +57,9 @@ img {
     align-items: center;
     justify-content: center;
 }
+
+/*Keep everything centered*/
+/*Align everything to the center as well as justifying the content*/
 
 .weather-input .separator::before{
     content:"";
@@ -104,6 +111,9 @@ width: 100%;
     float: right;
     padding-right: -50%;
 }
+
+/*Use cards for flex display*/
+/*Make sure to add a margin for spacing*/
 
 .card {
     display: flex;
