@@ -3,7 +3,7 @@
 A weather dashboard that will run in the browser and feature dynamically updated HTML and CSS. This will let Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. This challenge required a lot of effort and knowledge into being able to display the proper use of creating a fully funtioncal weather dashboard from scratch. The properties that follow are to make sure that the use of collecting information regarding weather information with the proper use of the API key. The main goal was focused on being able to use the API key correctly and have the weather dashboard built completely from scratch which will run properly in the browser with updated new HTML and CSS code. This project stands on its own due to being a first attempt at using API keys which proved to be quite challenging and also creating an entire weather dashboard from the ground up with all the necessary knowledge from class being implemented into the weather dashboard project! 
 
 # Live Site Application
-[Link To Deployed Application]()
+[Link To Deployed Application](https://artvargas.github.io/APIWeatherDashboard6/)
 [Screenshot of Weather Dashboard](./Images/IMG_4013.jpg)
 
 # Resource URL
